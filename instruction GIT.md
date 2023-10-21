@@ -57,3 +57,7 @@ git checkout <коммит>
 git checkout master
 ```
 >отображает последнюю зафиксированну версию файла.
+
+# *Вдохновлялся:*
+* статьей [30 команд Git, необходимых для освоения интерфейса командной строки Git](https://habr.com/ru/companies/ruvds/articles/599929/)
+* картинкой ![git шпаргалка](images\shpargalka.png)
