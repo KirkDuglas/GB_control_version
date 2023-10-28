@@ -45,7 +45,7 @@ git log --oneline
 git log --graph
 ```
 >Отображает дерево слияния веток
-![Отображение дерева](images\)
+![Отображение дерева](images\branchs.png)
 
 ```sh
 git log --decorate
